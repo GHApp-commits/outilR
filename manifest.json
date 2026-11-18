@@ -1,0 +1,12 @@
+{
+  "name": "Estimation V3.1",
+  "short_name": "Estimation",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#a31838",
+  "icons": [
+    { "src": "icon-v31-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-v31-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
